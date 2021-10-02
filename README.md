@@ -1,3 +1,1 @@
 # git-study
-
-a statement
