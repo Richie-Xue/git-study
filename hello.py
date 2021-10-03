@@ -6,3 +6,5 @@ for x in fruits:
     print(x)
 
 animals = ["cats", "dogs", "monkeys"]
+
+numbers = [1, 2, 3]
