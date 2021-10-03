@@ -8,3 +8,5 @@ for x in fruits:
 animals = ["cats", "dogs", "monkeys"]
 
 numbers = [1, 2, 3]
+
+print("Why does --no-f need a message?")
