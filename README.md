@@ -1,5 +1,5 @@
 # git-study
 
-a statement
+a statement;
 
-another statement
+another statement;
