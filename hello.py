@@ -10,4 +10,4 @@ animals = ["cats", "dogs", "monkeys"]
 numbers = [1, 2, 3]
 
 for x in range(3):
-    print(x ^ 2)
+    print(x ^ 3)
